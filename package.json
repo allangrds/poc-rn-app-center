@@ -8,6 +8,9 @@
     "test": "jest"
   },
   "dependencies": {
+    "appcenter": "3.1.2",
+    "appcenter-analytics": "3.1.2",
+    "appcenter-crashes": "3.1.2",
     "expo": "~39.0.2",
     "expo-splash-screen": "~0.6.2",
     "expo-status-bar": "~1.0.2",
